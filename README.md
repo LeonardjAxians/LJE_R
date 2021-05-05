@@ -1,2 +1,2 @@
 # LJE_R
-R-Studio project
+R-Studio repository
